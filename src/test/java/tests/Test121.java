@@ -38,6 +38,7 @@ public class Test121
 		Thread.sleep(5000);
 		obj.e.clear();
 		obj.e.sendKeys("seleniumhalfstack",Keys.ENTER);
+		System.out.println("Test 2");
 	}
 }
 
