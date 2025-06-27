@@ -33,6 +33,7 @@ public class Test120
 		System.out.println("Test 1");
 		System.out.println("Test 2");
 		System.out.println("Test 3");
+		System.out.println("Test 4");
 		//Close site
 		driver.close();
 	}
