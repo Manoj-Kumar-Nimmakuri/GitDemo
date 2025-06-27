@@ -39,6 +39,10 @@ public class Test122
 		{
 			System.out.println("Smoke test2 failed");
 		}
+		System.out.println("Smoke test3 failed");
+		System.out.println("Smoke test4 failed");
+		System.out.println("Smoke test5 failed");
+		
 		//Close site
 		driver.close();
 	}
