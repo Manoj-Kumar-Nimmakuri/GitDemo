@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/batch245/htmlunitselenium/animal-sniffer-annotations-1.14.jar"/>
+	<classpathentry kind="lib" path="E:/batch245/htmlunitselenium/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="E:/batch245/htmlunitselenium/checker-compat-qual-2.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/batch245/htmlunitselenium/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="E:/batch245/htmlunitselenium/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/batch245/htmlunitselenium/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="E:/batch245/htmlunitselenium/commons-lang3-3.9.jar"/>
+	<classpathentry kind="lib" path="E:/batch245/htmlunitselenium/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/batch245/htmlunitselenium/commons-net-3.6.jar"/>
+	<classpathentry kind="lib" path="E:/batch245/htmlunitselenium/commons-text-1.8.jar"/>
+	<classpathentry kind="lib" path="E:/batch245/htmlunitselenium/dec-0.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/batch245/htmlunitselenium/error_prone_annotations-2.1.3.jar"/>
+	<classpathentry kind="lib" path="E:/batch245/htmlunitselenium/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="E:/batch245/htmlunitselenium/htmlunit-2.38.0.jar"/>
+	<classpathentry kind="lib" path="E:/batch245/htmlunitselenium/htmlunit-core-js-2.38.0.jar"/>
+	<classpathentry kind="lib" path="E:/batch245/htmlunitselenium/htmlunit-cssparser-1.5.0.jar"/>
+	<classpathentry kind="lib" path="E:/batch245/htmlunitselenium/htmlunit-driver-2.38.0.jar"/>
+	<classpathentry kind="lib" path="E:/batch245/htmlunitselenium/httpclient-4.5.12.jar"/>
+	<classpathentry kind="lib" path="E:/batch245/htmlunitselenium/httpcore-4.4.13.jar"/>
+	<classpathentry kind="lib" path="E:/batch245/htmlunitselenium/httpmime-4.5.12.jar"/>
+	<classpathentry kind="lib" path="E:/batch245/htmlunitselenium/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/batch245/htmlunitselenium/jetty-client-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="E:/batch245/htmlunitselenium/jetty-http-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="E:/batch245/htmlunitselenium/jetty-io-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="E:/batch245/htmlunitselenium/jetty-util-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="E:/batch245/htmlunitselenium/jetty-xml-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="E:/batch245/htmlunitselenium/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="E:/batch245/htmlunitselenium/neko-htmlunit-2.38.0.jar"/>
+	<classpathentry kind="lib" path="E:/batch245/htmlunitselenium/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/batch245/htmlunitselenium/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="E:/batch245/htmlunitselenium/selenium-api-3.141.59.jar"/>
+	<classpathentry kind="lib" path="E:/batch245/htmlunitselenium/selenium-remote-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="E:/batch245/htmlunitselenium/selenium-support-3.141.59.jar"/>
+	<classpathentry kind="lib" path="E:/batch245/htmlunitselenium/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="E:/batch245/htmlunitselenium/websocket-api-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="E:/batch245/htmlunitselenium/websocket-client-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="E:/batch245/htmlunitselenium/websocket-common-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="E:/batch245/htmlunitselenium/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="E:/batch245/htmlunitselenium/xercesImpl-2.12.0.jar"/>
+	<classpathentry kind="lib" path="E:/batch245/htmlunitselenium/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
