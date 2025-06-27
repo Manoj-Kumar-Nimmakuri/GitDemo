@@ -30,6 +30,9 @@ public class Test120
 		Thread.sleep(5000);
 		//Operate element
 		e.sendKeys("seleniumhalfstack",Keys.ENTER);
+		System.out.println("Test 1");
+		System.out.println("Test 2");
+		System.out.println("Test 3");
 		//Close site
 		driver.close();
 	}
